@@ -1,12 +1,9 @@
 /*
 ===============================================================================
  Script: analysis_quality_bronze.sql
- Capa: Silver (análisis previo)
- Propósito:
-   Analiza la calidad de los datos que quedaron en la capa Bronze para
-   decidir qué reglas de limpieza se aplican en la capa Silver.
-   Cada consulta indica en el comentario el resultado esperado.
-   Al final hay un resumen con las reglas que se aplicarán en Silver.
+ Analiza la calidad de los datos que quedaron en la capa Bronze para decidir qué reglas de limpieza se aplican en la capa Silver.
+ Cada consulta indica en el comentario el resultado esperado.
+ Al final hay un resumen con las reglas que se aplicarán en Silver.
 ===============================================================================
 */
 
